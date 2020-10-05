@@ -1,0 +1,13 @@
+.search {
+    background-color: #A9A9A9;
+    padding: 5px;
+    text-align: center;
+}
+
+#search {
+    margin: 3px;
+}
+
+#js-submit {
+    border-radius: 5px;
+}
