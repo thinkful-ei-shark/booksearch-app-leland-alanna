@@ -1,9 +1,10 @@
 import React from 'react';
+import Header from './Header';
 
 function App() {
   return (
     <main className='App'>
-      {/* content goes here */}
+      <Header />
     </main>
   );
 }
